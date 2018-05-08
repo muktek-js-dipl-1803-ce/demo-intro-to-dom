@@ -32,8 +32,20 @@ ul.list-of-chores{
    list-style-type: none;
 }
 
-.some-line{
-   width: 200px;
-   height: 10px;
-   background: navy;
+.some-text{
+   width: 300px;
+   padding: 4px;
+   color: #fff;
+   background: #afafdd;
+}
+
+.bold-text{
+  font-weight: 700;
+  text-decoration: underline;
+  color: chartreuse;
+  text-shadow: 1px 1px 1px #333;
+}
+
+.very-important{
+  background: tomato;
 }
